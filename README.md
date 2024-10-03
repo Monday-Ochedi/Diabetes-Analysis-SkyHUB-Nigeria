@@ -12,6 +12,8 @@
 ### Project Overview
 This Data Analysis aims to provide actionable insights of a Diabetes Dataset by analyzing various aspect of the given data; identify problems and make data-driven decisions/recommendation
 
+<img width="827" alt="Diabetes Analysis" src="https://github.com/user-attachments/assets/442ddbbe-991b-436e-8e96-3386be68fc01">
+
 ### Data Source
 Diabetes Data : the primary dataset used for this analysis is the "diabetes.csv" file, containing the data needed for the analysis given by SkyHUB Nigeria
 
